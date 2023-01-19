@@ -1,0 +1,15 @@
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\bin\Debug\net6.0\VoorbeeldConsoleGitHub.exe
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\bin\Debug\net6.0\VoorbeeldConsoleGitHub.deps.json
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\bin\Debug\net6.0\VoorbeeldConsoleGitHub.runtimeconfig.json
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\bin\Debug\net6.0\VoorbeeldConsoleGitHub.dll
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\bin\Debug\net6.0\VoorbeeldConsoleGitHub.pdb
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.csproj.AssemblyReference.cache
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.AssemblyInfoInputs.cache
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.AssemblyInfo.cs
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.dll
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\refint\VoorbeeldConsoleGitHub.dll
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.pdb
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\VoorbeeldConsoleGitHub.genruntimeconfig.cache
+C:\Users\Leerling6ITN\OneDrive - SGKSO Hasp-O VZW\Programmeren\VoorbeeldConsoleGitHub\VoorbeeldConsoleGitHub\obj\Debug\net6.0\ref\VoorbeeldConsoleGitHub.dll
